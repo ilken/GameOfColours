@@ -1,0 +1,6 @@
+{
+  "name": "GameOfColours",
+  "tagline": "A PixiJS game ",
+  "body": "### Welcome to Game of Colours.\r\nCanvas game using PixiJS.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
